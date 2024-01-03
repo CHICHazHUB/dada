@@ -1,3 +1,3 @@
 return {
- 'hwid check'
+ "TEST CODE"
   }
