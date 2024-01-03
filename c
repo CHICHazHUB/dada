@@ -1,4 +1,3 @@
 return {
- "TEST CODE",
- "Test Line 2"
-  }
+ 'TEST CODE'
+ }
