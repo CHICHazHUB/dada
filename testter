@@ -1,0 +1,10 @@
+_G.webhook = getgenv().webhook
+print(webhook)
+_G.webhookFail = getgenv().webhookFail
+print(webhookFail)
+_G.userid = getgenv().userid
+print(userid)
+_G.alts = getgenv().alts
+print(alts)
+_G.normalwebhook = getgenv().normalwebhook
+print(normalwebhook)
